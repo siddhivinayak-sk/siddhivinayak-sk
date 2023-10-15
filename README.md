@@ -2,7 +2,7 @@
 - 👀 I’m interested in - Java and Cloud based application development and architectural solutioning which solves complex business problems.
 - 🌱 I’m currently learning - Cloud Native applicaiton development in platform agnostic mode.
 - 💞️ I’m looking to collaborate on - Cloud based open source project which helps to make developers life easy.
-- 📫 How to reach me - Please reachout to me on LinkedIn: https://www.linkedin.com/in/sandeep-kumar-5775954b/  or write to: siddhivinayak.sk@gmail.com
+- 📫 How to reach me - Please reachout to me on [LinkedIn](https://www.linkedin.com/in/siddhivinayak-sk/) or [email](mailto://siddhivinayak.sk@gmail.com)
 
 
 
