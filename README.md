@@ -1,13 +1,23 @@
-- 👋 Hi, I’m @siddhivinayak-sk Sandeep Kumar, Java, Python & Cloud Developer having 16+ years of working experience in design, development and architectural solutions in multiple domains like Content Solution, Education, Laboratory Management and BFSI. Have delivered / become part of delivery of enterprises applications which integrates with multiple applications and has high availability and disaster recovery requirements. I have also worked in applications developed using micro-service design pattern and deployed on Cloud Platform with Docker and Kubernetes orchastation along with API gateway and servcie mesh.
-- 👀 I’m interested in - Java, Python and Cloud based application development with Artificial Intelligence capabilities and architectural solutioning which solves complex business problems.
-- ✨ Working on Application having AI capabilities with Generative Pre-trained Transformers (GPT), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Skills, Agents, Tools, VectorDB, AI accuracy testing and bench marking and so on 
-- 🌱 I’m currently learning - AI capabilities and Cloud Native applicaiton development in platform agnostic mode.
-- 💞️ I’m looking to collaborate on - AI & Cloud based open source project which helps to make developers life easy.
-- 📫 How to reach me - Please reachout to me on [LinkedIn](https://www.linkedin.com/in/siddhivinayak-sk/) or [email](mailto://siddhivinayak.sk@gmail.com)
+## Hi, I'm Sandeep Kumar 👋
 
+I'm a Java, Python, and Cloud Developer with 16+ years of experience designing, developing, and architecting solutions across domains including content management, education, laboratory management, BFSI and AI.
 
+I've contributed to the delivery of enterprise applications that integrate with multiple systems and require high availability and disaster recovery. My experience also includes microservices-based applications deployed on cloud platforms using Docker and Kubernetes, with API gateways and service meshes. I'm also contributing projects to provide AI capabilities in enterprise applications.
 
-<!---
-siddhivinayak-sk/siddhivinayak-sk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### What I'm interested in
+Building Java, Python, and cloud-based applications with AI capabilities, and designing architecture that solves complex business problems.
+
+### What I'm working on
+Exploring and building AI-enabled applications using GPT, RAG, MCP, skills, agents, tools, and vector databases—with a focus on AI evaluation, accuracy testing, and benchmarking.
+
+### What I'm learning
+AI capabilities and cloud-native application development using platform-agnostic approaches.
+
+### Collaboration
+I'm interested in collaborating on open-source AI and cloud projects that make developers' lives easier.
+
+### Get in touch
+Connect with me on [LinkedIn](https://www.linkedin.com/in/siddhivinayak-sk/) or [email me](mailto:siddhivinayak.sk@gmail.com).
+
+### Support my work
+If you find my contributions helpful, you can [buy me a coffee](https://buymeacoffee.com/siddhivinayak.sk). ☕
